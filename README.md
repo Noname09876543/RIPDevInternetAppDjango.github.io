@@ -1,0 +1,2 @@
+# RIPDevInternetAppDjango.github.io
+ 
